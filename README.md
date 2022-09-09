@@ -5,9 +5,9 @@ Overview:
 Given the team’s areas of expertise (mechanical engineering, CAD, 3D printing, ID, coding), we decided to focus on optimizing the physical and mechanical design of Cyan rather than improving its efficiency from a chemistry standpoint.
 
 Considering the current Cyan design, we identified the following as potential areas of improvement:
-*Frequent hands-on servicing
-*Limited capacity of hydrated lime
-*Tedious removal of saturated CaCO3
+* Frequent hands-on servicing
+* Limited capacity of hydrated lime
+* Tedious removal of saturated CaCO3
 
 Here is some of our design sketches and concept art:
 
