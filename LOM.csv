@@ -1,3 +1,3 @@
-Item, Link, Number, Price, Total, Notes
-ELEGOO UNO,1, $17.99, $17.99, motor control
-HS-311 Serva, 1, $13.49, $13.99, motor   
+Item, Link, Number, Price, Total, Notes,
+ELEGOO UNO,1, $17.99, $17.99, motor control,
+HS-311 Servo, 1, $13.49, $13.99, motor,   
