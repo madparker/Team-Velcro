@@ -1,5 +1,7 @@
 # Team-Velcro
 
+![alt text](https://github.com/madparker/Team-Velcro/blob/main/Images/BuildShot1.jpg?raw=true)
+
 Overview:
 
 Given the team’s areas of expertise (mechanical engineering, CAD, 3D printing, ID, coding), we decided to focus on optimizing the physical and mechanical design of Cyan rather than improving its efficiency from a chemistry standpoint.
