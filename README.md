@@ -1,6 +1,6 @@
 # Team-Velcro
 
-![alt text](https://github.com/madparker/Team-Velcro/blob/main/Images/BuildShot1.jpg?raw=true)
+![alt text](https://github.com/madparker/Team-Velcro/blob/main/Images/Build_9_10_22.jpg?raw=true)
 
 Overview:
 
